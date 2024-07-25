@@ -1,0 +1,170 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+/* ============== background img-start ================ */
+.main-bg {
+  background-image: url(../images/jerrax-bg.jpeg);
+  width: 100%;
+  height: 700px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+/* ============== background img-end ================ */
+/* ================= main-top-menu-start =============== */
+.top-nav-bar {
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 140px;
+}
+/* ================= main-top-menu-end =============== */
+/* ================= main-logo-start =============== */
+.main-logo img {
+  height: 40px;
+}
+/* ================= main-logo-end =============== */
+/* ================= top-navbar-start =============== */
+.items ul {
+  list-style-type: none;
+}
+.items ul li a {
+  text-decoration: none;
+  color: white;
+  font-weight: 400;
+  font-size: 20px;
+}
+.items ul li a:hover {
+  color: #effa3c;
+}
+.top-nav-bar-button {
+  align-items: center;
+}
+.top-nav-bar-button a {
+  border: 2px solid #effa3c;
+  background-color: #effa3c;
+  color: black !important;
+  border-radius: 10px;
+  padding: 2px 15px;
+  text-align: center;
+}
+/* ================= top-navbar-end =============== */
+
+/* =============== background img-main-heading-start =============== */
+.main-head-data {
+  padding: 140px 140px;
+  color: white;
+}
+.px-140 {
+  padding: 0px 140px;
+}
+.main-head-data h1 {
+  font-weight: bold;
+}
+.box1 {
+  color: #faf871;
+}
+/* ================= background img-main-heading-end =============== */
+/* ================= background img-lower-heading-start =============== */
+.lower-heading-data {
+  color: white;
+  justify-content: space-between;
+  background-image: linear-gradient(to left, #0d1638 20%, #101ad1 80%);
+  height: 160px;
+  align-items: center;
+}
+.lower-heading-data1-img img {
+  height: 50px;
+}
+.box3 {
+  font-size: 16px;
+}
+.lower-heading-data1 {
+  padding: 20px;
+}
+.border-left {
+  border-left: 2px solid white;
+}
+/* ================= background img-lower-heading-end =============== */
+/* ============ container-about-start ================= */
+.mt-70 {
+  margin-top: 70px;
+}
+.container-about-left-data img {
+  height: 480px;
+}
+.box6 {
+  font-weight: 700;
+}
+.box15 {
+  color: #0000d4;
+}
+/* ============ container-about-end ================= */
+
+/* ============ container-Services-start =================  */
+.mt-100 {
+  margin-top: 100px;
+}
+.sevices-heading {
+  color: #0018d7;
+}
+.services-section-img img {
+  height: 75px;
+}
+.sevices-left-section-data-heading h2 {
+  color: #0018d7;
+}
+.sevices-right-button a {
+  text-decoration: none;
+  background-color: #0000d4;
+  color: white;
+  padding: 8px 20px;
+  border-radius: 8px;
+  font-weight: 500;
+}
+.sevices-right-img img {
+  height: 530px;
+}
+/* ============ container-Services-end =================  */
+/* ============ generated-section-start ================= */
+.bg-blue {
+  background-image: linear-gradient(to left, #101079 20%, #191abf 80%);
+  color: white;
+}
+.generated-section {
+  height: 450px;
+}
+.generated-section {
+  padding-top: 60px;
+}
+.generated-section-left img {
+  height: 300px;
+}
+.generated-section-right-img img {
+  height: 70px;
+}
+.yellow-hed {
+  color: #effa3c;
+}
+.yellow-btn {
+  text-decoration: none;
+  background-color: #effa3c;
+  color: black;
+  padding: 10px 35px;
+  border-radius: 12px;
+  text-align: center;
+  font-weight: 500;
+}
+.blue-btn {
+  text-decoration: none;
+  background-color: #101ad1;
+  color: white;
+  padding: 10px 35px;
+  border-radius: 12px;
+  text-align: center;
+  font-weight: 500;
+}
+.blue-hed {
+  color: #0018d7;
+}
+/* ============ generated-section-end ================= */
